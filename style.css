@@ -1,0 +1,19 @@
+img{
+    width:500px;
+    height:500px;
+  }
+  .detail
+  {background-color:#90A4AE;
+  text-align:center;
+  margin-right: 50px;}
+  
+  
+  .row{
+    display:flex;
+     text-align:center; ;
+    
+  }
+  body{
+    text-align:center;
+  }
+  
